@@ -109,15 +109,6 @@ Projects that represent different parts of my learning and development journey.
 | **[mg-datos](https://github.com/JulyAnAr88/mg-datos)**                 | **Automation and data processing**, combining programming, data transformation and automated workflows to make repetitive tasks more reproducible. |
 | **[MonitoringSystem](https://github.com/JulyAnAr88/MonitoringSystem)** | Software development and system monitoring.                                                                                                        |
 
-### 🌐 Web & Software Development
-
-| Project                                                                                  | Description                            |
-| ---------------------------------------------------------------------------------------- | -------------------------------------- |
-| **[cautious-winner](https://github.com/JulyAnAr88/cautious-winner)**                     | Modern web development and TypeScript. |
-| **[ChallengerONE.1](https://github.com/JulyAnAr88/ChallengerONE.1)**                     | Web development project.               |
-| **[ChallengeONE.2](https://github.com/JulyAnAr88/ChallengeONE.2)**                       | JavaScript and frontend development.   |
-| **[challenge3-one-portafolio](https://github.com/JulyAnAr88/challenge3-one-portafolio)** | HTML, CSS and portfolio development.   |
-
 > Some repositories are academic projects, experiments or learning exercises.
 > Others are prototypes built to explore a technology or solve a specific problem.
 
