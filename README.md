@@ -1,8 +1,14 @@
+<!--
+  ╔══════════════════════════════════════════════════════════════╗
+  ║              JULIÁN ARAGÓN · GITHUB PROFILE                ║
+  ╚══════════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
 
-# 🐉 Julián Aragón
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:0369a1&height=220&section=header&text=Juli%C3%A1n%20Arag%C3%B3n&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=DATA%20%7C%20AI%20%7C%20SOFTWARE%20%7C%20MATH&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-### Data · Artificial Intelligence · Software · Mathematics
+### 🐉 Data · Artificial Intelligence · Software · Mathematics
 
 **Data Analyst · Math Teacher · AI Engineering Student**
 
@@ -10,10 +16,10 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/JulyAnAr88)
-[![Python](https://img.shields.io/badge/Python-020617?style=for-the-badge\&logo=python\&logoColor=38bdf8)](https://www.python.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020617?style=for-the-badge\&logo=postgresql\&logoColor=38bdf8)](https://www.postgresql.org/)
-[![Docker](https://img.shields.io/badge/Docker-020617?style=for-the-badge\&logo=docker\&logoColor=38bdf8)](https://www.docker.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-18181B?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/JulyAnAr88)
+[![Python](https://img.shields.io/badge/Python-18181B?style=for-the-badge\&logo=python\&logoColor=3776AB)](https://www.python.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181B?style=for-the-badge\&logo=postgresql\&logoColor=4169E1)](https://www.postgresql.org/)
+[![Docker](https://img.shields.io/badge/Docker-18181B?style=for-the-badge\&logo=docker\&logoColor=2496ED)](https://www.docker.com/)
 
 </div>
 
@@ -125,6 +131,16 @@ Projects that represent different parts of my learning and development journey.
 
 ---
 
+# ⚡ Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=JulyAnAr88&hide_border=true&background=020617&ring=38bdf8&fire=22d3ee&currStreakLabel=38bdf8&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=ffffff&dates=64748b" />
+
+</div>
+
+---
+
 # 📈 Activity
 
 <div align="center">
@@ -200,6 +216,10 @@ When I'm not working with data or code, I enjoy:
 <div align="center">
 
 ### 🐉 Keep learning. Keep building.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369a1,50:0f172a,100:020617&height=120&section=footer" width="100%"/>
 
 </div>
 
