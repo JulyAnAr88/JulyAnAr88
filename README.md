@@ -125,16 +125,6 @@ Projects that represent different parts of my learning and development journey.
 
 ---
 
-# ⚡ Contribution Streak
-
-<div align="center">
-
-<img src="./profile/streak.svg" width="70%" alt="GitHub Contribution Streak"/>
-
-</div>
-
----
-
 # 📈 Activity
 
 <div align="center">
