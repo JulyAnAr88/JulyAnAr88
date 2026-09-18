@@ -1,14 +1,8 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║              JULIÁN ARAGÓN · GITHUB PROFILE                ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:0369a1&height=220&section=header&text=Juli%C3%A1n%20Arag%C3%B3n&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=DATA%20%7C%20AI%20%7C%20SOFTWARE%20%7C%20MATH&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+# 🐉 Julián Aragón
 
-### 🐉 Data · Artificial Intelligence · Software · Mathematics
+### Data · Artificial Intelligence · Software · Mathematics
 
 **Data Analyst · Math Teacher · AI Engineering Student**
 
@@ -16,10 +10,10 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-18181B?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/JulyAnAr88)
-[![Python](https://img.shields.io/badge/Python-18181B?style=for-the-badge\&logo=python\&logoColor=3776AB)](https://www.python.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181B?style=for-the-badge\&logo=postgresql\&logoColor=4169E1)](https://www.postgresql.org/)
-[![Docker](https://img.shields.io/badge/Docker-18181B?style=for-the-badge\&logo=docker\&logoColor=2496ED)](https://www.docker.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/JulyAnAr88)
+[![Python](https://img.shields.io/badge/Python-020617?style=for-the-badge\&logo=python\&logoColor=38bdf8)](https://www.python.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020617?style=for-the-badge\&logo=postgresql\&logoColor=38bdf8)](https://www.postgresql.org/)
+[![Docker](https://img.shields.io/badge/Docker-020617?style=for-the-badge\&logo=docker\&logoColor=38bdf8)](https://www.docker.com/)
 
 </div>
 
@@ -32,23 +26,29 @@ I'm **Julián**, a Data Analyst and Mathematics Teacher currently studying **Art
 My interests live at the intersection of:
 
 ```text
-                 ┌─────────────────┐
-                 │   MATHEMATICS   │
-                 └────────┬────────┘
-                          │
-                          ▼
-┌───────────────┐   ┌───────────────┐   ┌────────────────┐
-│     DATA      │──▶│    SOFTWARE   │──▶│ ARTIFICIAL     │
-│               │   │               │   │ INTELLIGENCE   │
-└───────────────┘   └───────────────┘   └────────────────┘
-                          │
-                          ▼
-                  ┌───────────────┐
-                  │  AUTOMATION   │
-                  └───────────────┘
+                         MATHEMATICS
+                              │
+                              ▼
+                           DATA
+                              │
+                 ┌────────────┼────────────┐
+                 ▼            ▼            ▼
+               ANALYTICS     ETL       VISUALIZATION
+                 │            │            │
+                 └────────────┼────────────┘
+                              ▼
+                          SOFTWARE
+                              │
+                 ┌────────────┼────────────┐
+                 ▼            ▼            ▼
+                AI           NLP        AUTOMATION
+                 │            │            │
+                 └────────────┼────────────┘
+                              ▼
+                       REAL PROBLEMS
 ```
 
-I enjoy taking a real-world problem, understanding the data behind it, and building something that makes the problem easier to solve.
+I enjoy taking a real-world problem, understanding the data behind it, and building something useful from it.
 
 ---
 
@@ -92,50 +92,43 @@ I enjoy taking a real-world problem, understanding the data behind it, and build
 
 </p>
 
-### Tools I like to experiment with
+### Also exploring
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,postgres,docker,linux,git" />
-
-</p>
-
-**Also exploring:** Apache Superset · n8n · Airflow · Apache Hop · FastAPI · local LLMs · Whisper · Redis/Celery
+`Apache Superset` · `n8n` · `Apache Airflow` · `Apache Hop` · `FastAPI` · `Whisper` · `Redis/Celery` · `Local LLMs`
 
 ---
 
 # 🚀 Featured Projects
 
-Rather than trying to show everything I've built, here are some projects that represent different parts of my learning journey.
+Projects that represent different parts of my learning and development journey.
 
-### 🤖 Systems & Artificial Intelligence
+### 📊 Data, Automation & AI
 
-| Project                                                                | What it represents                                 |
-| ---------------------------------------------------------------------- | -------------------------------------------------- |
-| **[ISCF-grupo5](https://github.com/JulyAnAr88/ISCF-grupo5)**           | Cyber-physical systems, robotics and digital twins |
-| **[MonitoringSystem](https://github.com/JulyAnAr88/MonitoringSystem)** | Java software development and systems              |
+| Project                                                                | Description                                                                                                                                        |
+| ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[mg-datos](https://github.com/JulyAnAr88/mg-datos)**                 | **Automation and data processing**, combining programming, data transformation and automated workflows to make repetitive tasks more reproducible. |
+| **[MonitoringSystem](https://github.com/JulyAnAr88/MonitoringSystem)** | Software development and system monitoring.                                                                                                        |
 
 ### 🌐 Web & Software Development
 
-| Project                                                                                  | What it represents                  |
-| ---------------------------------------------------------------------------------------- | ----------------------------------- |
-| **[cautious-winner](https://github.com/JulyAnAr88/cautious-winner)**                     | TypeScript / modern web development |
-| **[ChallengerONE.1](https://github.com/JulyAnAr88/ChallengerONE.1)**                     | Web development                     |
-| **[ChallengeONE.2](https://github.com/JulyAnAr88/ChallengeONE.2)**                       | JavaScript / frontend development   |
-| **[challenge3-one-portafolio](https://github.com/JulyAnAr88/challenge3-one-portafolio)** | HTML / CSS / portfolio development  |
+| Project                                                                                  | Description                            |
+| ---------------------------------------------------------------------------------------- | -------------------------------------- |
+| **[cautious-winner](https://github.com/JulyAnAr88/cautious-winner)**                     | Modern web development and TypeScript. |
+| **[ChallengerONE.1](https://github.com/JulyAnAr88/ChallengerONE.1)**                     | Web development project.               |
+| **[ChallengeONE.2](https://github.com/JulyAnAr88/ChallengeONE.2)**                       | JavaScript and frontend development.   |
+| **[challenge3-one-portafolio](https://github.com/JulyAnAr88/challenge3-one-portafolio)** | HTML, CSS and portfolio development.   |
 
-> Some repositories are academic projects or experiments.
-> Others are playgrounds for learning a technology or testing an idea.
+> Some repositories are academic projects, experiments or learning exercises.
+> Others are prototypes built to explore a technology or solve a specific problem.
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=JulyAnAr88&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulyAnAr88&layout=compact&langs_count=8&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=cbd5e1" />
+<img src="./profile/stats.svg" width="49%" alt="GitHub Statistics"/>
+<img src="./profile/top-langs.svg" width="49%" alt="Top Languages"/>
 
 </div>
 
@@ -145,17 +138,17 @@ Rather than trying to show everything I've built, here are some projects that re
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=JulyAnAr88&hide_border=true&background=020617&ring=38bdf8&fire=22d3ee&currStreakLabel=38bdf8&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=ffffff&dates=64748b" />
+<img src="./profile/streak.svg" width="70%" alt="GitHub Contribution Streak"/>
 
 </div>
 
 ---
 
-# 📈 My GitHub Activity
+# 📈 Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JulyAnAr88&bg_color=020617&color=94a3b8&line=38bdf8&point=22d3ee&area=true&hide_border=true" width="95%"/>
+<img src="./profile/activity.svg" width="95%" alt="GitHub Activity"/>
 
 </div>
 
@@ -164,25 +157,25 @@ Rather than trying to show everything I've built, here are some projects that re
 # 🧠 Current Learning Path
 
 ```text
-                         ┌──────────────────────┐
-                         │ Artificial Intelligence│
-                         └──────────┬───────────┘
-                                    │
-              ┌─────────────────────┼─────────────────────┐
-              ▼                     ▼                     ▼
-       Machine Learning           NLP                 Local AI
-              │                     │                     │
-              └─────────────────────┼─────────────────────┘
-                                    ▼
-                              Data Engineering
-                                    │
-                     ┌──────────────┼──────────────┐
-                     ▼              ▼              ▼
-                   ETL             BI          Automation
-                     │              │              │
-                     └──────────────┼──────────────┘
-                                    ▼
-                              Real Problems
+                    ┌───────────────────────┐
+                    │ ARTIFICIAL INTELLIGENCE│
+                    └───────────┬───────────┘
+                                │
+              ┌─────────────────┼─────────────────┐
+              ▼                 ▼                 ▼
+       MACHINE LEARNING        NLP             LOCAL AI
+              │                 │                 │
+              └─────────────────┼─────────────────┘
+                                ▼
+                         DATA ENGINEERING
+                                │
+                 ┌──────────────┼──────────────┐
+                 ▼              ▼              ▼
+                ETL             BI        AUTOMATION
+                 │              │              │
+                 └──────────────┼──────────────┘
+                                ▼
+                          REAL PROBLEMS
 ```
 
 I'm especially interested in the point where **data engineering, analytics, software and AI meet**.
@@ -227,9 +220,6 @@ When I'm not working with data or code, I enjoy:
 
 ### 🐉 Keep learning. Keep building.
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369a1,50:0f172a,100:020617&height=120&section=footer" width="100%"/>
-
 </div>
+
 
