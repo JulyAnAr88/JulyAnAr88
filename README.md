@@ -120,19 +120,9 @@ Projects that represent different parts of my learning and development journey.
 | Project                                                                | Description                                                                                                                                        |
 | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **[diabetes-ml](https://github.com/JulyAnAr88/diabetes-ml)**           | End-to-end machine learning project: data pipeline, trained model, Streamlit app and reporting.                                                      |
-| **[mg-datos](https://github.com/JulyAnAr88/mg-datos)**                 | **Automatic learning project** with a Streamlit app and trained models, plus the pipeline that feeds them.                                             |
-| **[bank-churners-cursor-bootcamp](https://github.com/JulyAnAr88/bank-churners-cursor-bootcamp)** | Churn prediction study on banking data: EDA, feature engineering and model comparison.                                        |
 | **[clinical-trials](https://github.com/JulyAnAr88/clinical-trials)**   | Data analysis over clinical trial datasets with reproducible notebooks.                                                                              |
 | **[geolocalizador](https://github.com/JulyAnAr88/geolocalizador)**     | Geolocation project working with coordinates and maps.                                                                                               |
 | **[MonitoringSystem](https://github.com/JulyAnAr88/MonitoringSystem)** | Software development and system monitoring.                                                                                                        |
-
-### 🎮 Software & Games
-
-| Project                                                                | Description                                                                              |
-| ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| **[proyecto-final-ticmas](https://github.com/JulyAnAr88/proyecto-final-ticmas)** | Capstone project with a web app, REST API and SQL database.                       |
-| **[AED](https://github.com/JulyAnAr88/AED)**                           | Auxiliary educational system developed with Python and Streamlit.                         |
-| **[runner-sfml](https://github.com/JulyAnAr88/runner-sfml)**           | Game prototype built with SFML.                                                          |
 
 > Some repositories are academic projects, experiments or learning exercises.
 > Others are prototypes built to explore a technology or solve a specific problem.
