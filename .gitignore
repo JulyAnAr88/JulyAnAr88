@@ -1,0 +1,8 @@
+# Editores / IDE
+.vscode/
+.idea/
+
+# Sistema operativo
+Thumbs.db
+desktop.ini
+.DS_Store
